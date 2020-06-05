@@ -1,0 +1,10 @@
+.idea/
+.pytest_cache
+tests/.pytest_cache
+coverage_report
+.coverage
+tests_report
+dp_caps_library_normalization_pdf.egg-info
+*__pycache__
+.mypy_cache
+.venv
